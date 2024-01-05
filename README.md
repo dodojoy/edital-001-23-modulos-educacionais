@@ -10,6 +10,7 @@ Para instalar as dependências ([JSON Server](https://github.com/typicode/json-s
 npm install
 ```
 
+
 ## Execução da API
 
 Para executar a API, basta executar o seguinte comando:
