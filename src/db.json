@@ -2,6 +2,7 @@
   "cursos": [
     {
       "id": 1,
+      
       "cateroria": "Especialização",
       "capa": "https://avasus.ufrn.br/pluginfile.php/952815/course/thumbimage//PEPSUS_379x220.jpg",
       "titulo": "Curso de Especialização em Saúde da Família (PEPSUS) Turma 6",
